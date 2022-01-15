@@ -5,26 +5,26 @@ class Messages:
     HELP_MSG = [
         ".",
         f"""
-**👋🏻 Hai Selamat Datang Kembali Di [{PROJECT_NAME}](https://telegra.ph/file/ed136c19e7f6afddb4912.jpg)
+**👋🏻 مرحبا مرحبا بعودتك الى [{PROJECT_NAME}](https://telegra.ph/file/946ecfe7c92567b2ca67d.jpg)
 
 ⚪️ {PROJECT_NAME} Dapat Memutar Musik Di Obrolan Suara Grup Anda Serta Obrolan Suara Saluran
 
 ⚪️ Assistant Name >> @{ASSISTANT_NAME}\n\n☑️ Klik Selanjutnya Untuk Informasi Lebih Lanjut**
 """,
         f"""
-**🛠️ Pengaturan**
+️ **الإعدادات**
 
-1) Jadikan Bot Sebagai Admin
-2) Mulai Obrolan Suara / Vcg
-3) Kirim Perintah /userbotjoin
-• Jika Assistant Bot Bergabung Selamat Menikmati Musik, 
-• Jika Assistant Bot Tidak Bergabung Silahkan Tambahkan @{ASSISTANT_NAME} Ke Grup Anda Dan Coba Lagi
+1) اجعل البوت كمسؤول
+2) ابدأ الدردشة الصوتية / Vcg
+3) إرسال الأمر / userbotjoin
+• إذا انضم المساعد بوت إلى الاستمتاع بالموسيقى ،
+• إذا لم يتم الانضمام إلى Assistant Bot ، يرجى إضافة @ {ASSISTANT_NAME} إلى مجموعتك والمحاولة مرة أخرى
 
-**Untuk Saluran Music Play 📣**
+لقناة تشغيل الموسيقى
 
-1) Jadikan Bot Sebagai Admin Saluran
-2) Kirim /userbotjoinchannel Di Grup Tertaut
-3) Sekarang Kirim Perintah Di Grup Tertaut
+1) اجعل البوت مسؤولاً للقناة
+2) إرسال / userbotjoinchannel في مجموعة مرتبطة
+3) أرسل الآن الأمر في المجموعة المرتبطة
 """,
         """
 **🔰 Perintah**
@@ -78,15 +78,14 @@ Semua Perintah Bisa Digunakan Kecuali Perintah /player /skip /pause /resume  /en
 - /admincache: Memperbarui Info Admin Grup Anda. Coba Jika Bot Tidak Mengenali Admin
 - /userbotjoin: Undang @{ASSISTANT_NAME} Userbot Ke Grup Anda
 """,
-        f"""👋🏻 Hallo, Nama saya [{PROJECT_NAME}](https://telegra.ph/file/ed136c19e7f6afddb4912.jpg)
-Dikekolah oleh {OWNER}
+        f"""👋🏻 ازيك يبرو اسمي [{PROJECT_NAME}](https://telegra.ph/file/946ecfe7c92567b2ca67d.jpg)
+تدرس من قبل {OWNER}
 ・✦▭▭▭▭✧◦✦◦✧▭▭▭▭✦ ・
-☑️ Saya memiliki banyak fitur untuk anda yang suka lagu
-🔘 Memutar lagu di group 
-🔘 Memutar lagu di channel
-🔘 Mendownload lagu
-🔘 Mencari link youtube
-・✦▭▭▭▭✧◦✦◦✧▭▭▭▭✦ ・
-☑️ Klik tombol bantuan untuk informasi lebih lanjut
-""",
+️ لدي العديد من الميزات لمن يحب الأغاني منكم
+تشغيل الأغاني في المجموعة
+تشغيل الأغاني على القناة
+تحميل اغاني
+أبحث عن روابط يوتيوب
+️・✦▭▭▭▭✧◦✦◦✧▭▭▭▭✦ ・
+️ انقر فوق زر التعليمات لمزيد من المعلومات""",
     ]
